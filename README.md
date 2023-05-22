@@ -1,5 +1,5 @@
 Hello, and welcome to my profile! :D
 
-I am a very fresh new student in Data Science, hoping to learn much more about this field!
+I just completed Le Wagon bootcamp on Data Science. But I'm still hoping to learn much more about this field!
 
-For now, I only know the basics in Python, SQL, and HTML.
+For now, I know Python, SQL, Machine/Deep Learning, JupyterNotebook, Git, Github and a bit of HTML.
