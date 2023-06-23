@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Japanese**
 
-- 💬 Ask me about **Data Science, Model creation, OpenCV**
+- 💬 Ask me about **Data Science, Machine Learning, OpenCV**
 
 - 📫 How to reach me: **ciprianiclement@outlook.com**
 
